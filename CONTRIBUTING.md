@@ -1,5 +1,6 @@
 Contribution guidelines
 Welcome Contributors!
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 Thank you for considering contributing to the centralized repository. This document outlines the guidelines for contributing to the development of Shipping Rates and Calculations.
 
 Code style
@@ -16,5 +17,6 @@ Check the issue tracker for any open issues or feature requests. If you're worki
 
 Code review
 All contributions will go through a code review process. Be open to feedback and be willing to make changes if necessary. Code reviews help maintain code quality and consistency.
+
 
 Thank you for your contribution!
